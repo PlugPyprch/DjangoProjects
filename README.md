@@ -1,2 +1,1 @@
 # DjangoProjects
-Linear regression
